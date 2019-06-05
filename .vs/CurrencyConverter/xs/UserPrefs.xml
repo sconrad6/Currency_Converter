@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4826946E-AADD-461D-BAF6-11D48AE3DC4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyConverter/CurrencyTest.cs">
+    <Files>
+      <File FileName="CurrencyConverter/CurrencyConversion.cs" Line="35" Column="1" />
+      <File FileName="CurrencyConverter/CurrencyTest.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CurrencyConverter" expanded="True">
+            <Node name="CurrencyConverter" expanded="True">
+              <Node name="CurrencyTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CurrencyConverter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

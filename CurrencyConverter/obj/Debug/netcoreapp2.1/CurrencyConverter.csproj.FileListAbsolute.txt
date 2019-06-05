@@ -1,0 +1,11 @@
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.csprojAssemblyReference.cache
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.AssemblyInfo.cs
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.deps.json
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.runtimeconfig.json
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.runtimeconfig.dev.json
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.dll
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp2.1/CurrencyConverter.pdb
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.dll
+/Users/savanahisabella/Documents/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp2.1/CurrencyConverter.pdb
